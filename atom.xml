@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hldream</id>
+    <id>https://dreamland527.github.io</id>
     <title>拾光逐梦</title>
-    <updated>2021-08-23T06:20:13.708Z</updated>
+    <updated>2021-08-23T06:21:20.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hldream"/>
-    <link rel="self" href="https://hldream/atom.xml"/>
+    <link rel="alternate" href="https://dreamland527.github.io"/>
+    <link rel="self" href="https://dreamland527.github.io/atom.xml"/>
     <subtitle>闲看庭前花开花落</subtitle>
-    <logo>https://hldream/images/avatar.png</logo>
-    <icon>https://hldream/favicon.ico</icon>
+    <logo>https://dreamland527.github.io/images/avatar.png</logo>
+    <icon>https://dreamland527.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 拾光逐梦</rights>
     <entry>
         <title type="html"><![CDATA[学习]]></title>
-        <id>https://hldream/post/ce-shi/</id>
-        <link href="https://hldream/post/ce-shi/">
+        <id>https://dreamland527.github.io/post/ce-shi/</id>
+        <link href="https://dreamland527.github.io/post/ce-shi/">
         </link>
         <updated>2020-07-27T06:48:51.000Z</updated>
         <content type="html"><![CDATA[<p>书山有路勤为径<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hldream/post/hello-gridea/</id>
-        <link href="https://hldream/post/hello-gridea/">
+        <id>https://dreamland527.github.io/post/hello-gridea/</id>
+        <link href="https://dreamland527.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
